@@ -1,0 +1,62 @@
+{
+  "deportes": [
+    {
+      "nombre": "Fútbol",
+      "equipos": [
+        {
+          "nombre": "Real Madrid",
+          "pais": "España",
+          "jugadores": [
+            {
+              "nombre": "Vinícius Jr.",
+              "posicion": "Delantero",
+              "edad": 23
+            },
+            {
+              "nombre": "Jude Bellingham",
+              "posicion": "Mediocampista",
+              "edad": 20
+            }
+          ]
+        },
+        {
+          "nombre": "Manchester City",
+          "pais": "Inglaterra",
+          "jugadores": [
+            {
+              "nombre": "Erling Haaland",
+              "posicion": "Delantero",
+              "edad": 23
+            },
+            {
+              "nombre": "Kevin De Bruyne",
+              "posicion": "Mediocampista",
+              "edad": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Baloncesto",
+      "equipos": [
+        {
+          "nombre": "Los Angeles Lakers",
+          "pais": "Estados Unidos",
+          "jugadores": [
+            {
+              "nombre": "LeBron James",
+              "posicion": "Alero",
+              "edad": 39
+            },
+            {
+              "nombre": "Anthony Davis",
+              "posicion": "Pívot",
+              "edad": 31
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
